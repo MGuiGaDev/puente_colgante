@@ -18,7 +18,7 @@
 
 ### 2. Crear cuenta en [GitHub](https://github.com/login)
 
-### 3. Descargar un proyecto en tu máquina y abrirlo en un navegador:
+### 3. Descargar un proyecto en tu máquina:
 
 <details>
 <summary>¿Necesitas ayuda?</summary>
