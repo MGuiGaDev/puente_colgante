@@ -1,22 +1,24 @@
-# PASOS EN EL PUENTE COLGANTE
+# *CRUZANDO EL PUENTE COLGANTE*
 
 ![ouente_colgante](images/Leonardo_Diffusion_XL_dilapidated_old_wooden_suspension_bridge_0.jpg)
 
-## ¿Qué es el puente colgante?
+<hr>
 
-> Aprender desarrollo web como si la empresa que nos ha contratado tuviera tiempo de enseñarnos.
+## 🌉 ¿Para qué cruzar el puente colgante?
 
-## Empezar a aprender
+> Para aprender desarrollo web como si la empresa que nos ha contratado tuviera tiempo de enseñarnos.
 
-1. Descargar e instalar [VS Code](https://code.visualstudio.com/)
+## 🧑‍🎓 Empezar a aprender
 
-    a. Instalar extensiones:
+### 1. Descargar e instalar [VS Code](https://code.visualstudio.com/)
+
+#### 1.1. Además instalaremos las siguientes extensiones:
 
 > HTML CSS Support, File & Folder Icons
 
-2. Crear cuenta en [GitHub](https://github.com/login)
+### 2. Crear cuenta en [GitHub](https://github.com/login)
 
-3. Descargar un proyecto en tu máquina y abrirlo en un navegador:
+### 3. Descargar un proyecto en tu máquina y abrirlo en un navegador:
 
 <details>
 <summary>¿Necesitas ayuda?</summary>
@@ -29,7 +31,7 @@
 ![repo_clone](images/repo_clone.png)
 </details>
 
-4. Abrir el proyecto en VS Code.
+### 4. Abrir el proyecto en VS Code.
 <details>
 <summary>¿Necesitas ayuda?</summary>
 
@@ -39,7 +41,3 @@
 
 - Ejecutar el siguiente comando: ``code .``.
 </details>
-
-
-5. Abrir el repositorio ejecutando el siguiente comando
-
